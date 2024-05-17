@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-05-16T16:45:08.861Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="XmMJeqLDipsDHCvjEPQC" version="24.4.3" type="device">
+  <diagram name="Page-1" id="kdmYBz-bDyoLAJk5E2kk">
+    <mxGraphModel dx="2214" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N5i2dL-JiRPYioQffIFt-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-2" value="database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="350" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-3" value="&lt;div&gt;inet&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-4" value="firewall" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-5" value="vpn server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-7" value="user pc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-10" value="container" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-11" value="vpc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-12" value="network" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-13" value="balancer" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="530" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N5i2dL-JiRPYioQffIFt-14" value="storage" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
